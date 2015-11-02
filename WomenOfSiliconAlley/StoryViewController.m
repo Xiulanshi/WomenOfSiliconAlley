@@ -51,7 +51,7 @@ UITableViewDelegate
 //    PFObject *newStoryObject = [PFObject objectWithClassName:@"Story"];
 //    newStoryObject[@"name"] = @"Zoufishan Mehdi";
 //    newStoryObject[@"role"] = @"iOS Developer";
-//    newStoryObject[@"storyDetail"] = @"IIt all started with working on cybersecurity for my MA thesis. Tech always seemed out of my realm, and it was reinforced by others who would tell me that it wasn’t for me or it wasn’t up my alley. Normally I would just believe them, but this time I shook it off and gave it a shot. While I didn’t know this at the time, this was my first baby step veering towards tech. This very mentality of shrugging off negative comments and giving things a shot culminated in trying programming online until I decided to devote my full attention to it. I’m still trying to find my footing in this field but I have a feeling this is the start of something new.";
+//    newStoryObject[@"storyDetail"] = @"It all started with working on cybersecurity for my MA thesis. Tech always seemed out of my realm, and it was reinforced by others who would tell me that it wasn’t for me or it wasn’t up my alley. Normally I would just believe them, but this time I shook it off and gave it a shot. While I didn’t know this at the time, this was my first baby step veering towards tech. This very mentality of shrugging off negative comments and giving things a shot culminated in trying programming online until I decided to devote my full attention to it. I’m still trying to find my footing in this field but I have a feeling this is the start of something new.";
 //    
 //    self.image = [UIImage imageNamed:@"zoufishan"];
 //    NSData *data = UIImageJPEGRepresentation(self.image, 0.5f);

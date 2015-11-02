@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "506ED9CE7472E2F62F1AE1B5C90E1F5E71528F85",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "506ED9CE7472E2F62F1AE1B5C90E1F5E71528F85" : 0,
+    "CC547FB18C0F47AE7314014E2DB8449A34670526" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9083D8A0-A506-4FB5-A261-4C3AB58CDB2F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "506ED9CE7472E2F62F1AE1B5C90E1F5E71528F85" : "WomenOfSiliconAlley\/",
+    "CC547FB18C0F47AE7314014E2DB8449A34670526" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WomenOfSiliconAlley",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WomenOfSiliconAlley.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Xiulanshi\/WomenOfSiliconAlley.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "506ED9CE7472E2F62F1AE1B5C90E1F5E71528F85"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zovfreullia\/WomenOfSiliconAlley.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC547FB18C0F47AE7314014E2DB8449A34670526"
+    }
+  ]
+}

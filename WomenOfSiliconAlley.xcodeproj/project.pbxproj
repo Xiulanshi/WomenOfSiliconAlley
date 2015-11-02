@@ -352,7 +352,7 @@
 				TargetAttributes = {
 					D9EC76061BE50BB2000DE867 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = 3358H79N3F;
+						DevelopmentTeam = 85VFEKU7M5;
 					};
 					D9EC761F1BE50BB2000DE867 = {
 						CreatedOnToolsVersion = 7.1;
@@ -613,7 +613,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = WomenOfSiliconAlley/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nyc.c4q.xiulanshi.WomenOfSiliconAlley;
+				PRODUCT_BUNDLE_IDENTIFIER = c4q.xiulanshi.WomenOfSiliconAlley;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -628,7 +628,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = WomenOfSiliconAlley/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nyc.c4q.xiulanshi.WomenOfSiliconAlley;
+				PRODUCT_BUNDLE_IDENTIFIER = c4q.xiulanshi.WomenOfSiliconAlley;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
